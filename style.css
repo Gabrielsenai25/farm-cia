@@ -1,0 +1,60 @@
+.img-logo-navbar{
+    height: 50px;
+}
+
+.text-navbar-options{
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+}
+.grid{
+    columns: 4;
+}
+
+.itens{
+    height: 100%;
+    width: 100%;
+}
+
+.des-prod{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    font-weight: 600;
+}
+.des-prod2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    font-weight: 600;
+}
+
+.bt-prod{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    width: 420px;
+    background:linear-gradient(to top, blue , rgb(111, 126, 255))
+}
+
+.margin{
+    margin-top: 100px;
+}
+
+.img-final{
+    border-radius: 30px;
+}
+
+.bg-footer{
+    color: black;
+    background-color: rgb(146, 146, 146);
+}
+
+.color-text-footer{
+    color: white;
+}
+
+.img-footer{
+    height: 50px;
+}
